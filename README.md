@@ -1,10 +1,15 @@
-# mi-by-vue-master
+# mi-by-vue
+
+> mi-vue
+
+## Build Setup
 
 ``` bash
-# npm install
+# install dependencies
+npm install
 
-# npm run dev
+# serve with hot reload at localhost:8080
+npm run dev
 
-# npm run build
-
-```
+# build for production with minification
+npm run build
